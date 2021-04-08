@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MineSlater",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Alexander Brook Perry",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MineSlater",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
